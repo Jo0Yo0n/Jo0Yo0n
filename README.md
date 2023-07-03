@@ -4,6 +4,3 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndbs100)](https://solved.ac/dlwndbs100)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo0Yo0n)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo0Yo0n&layout=compact&theme=dark)
